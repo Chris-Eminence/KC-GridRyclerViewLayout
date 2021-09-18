@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Grid RecyclerLayout</string>
+
+    <string name="text_one">    Fantastic   </string>
+    <string name="text_two">    Amazing     </string>
+    <string name="text_three">  Beautiful   </string>
+    <string name="text_four">   Glamorous  </string>
+    <string name="text_five">   Amazing    </string>
+    <string name="text_six">    Charming    </string>
+    <string name="text_seven">  Gracious  </string>
+    <string name="text_eight">  Wonderful     </string>
+    <string name="text_nine">   Simple     </string>
+    <string name="text_ten">    Spectacular     </string>
+    <string name="text_eleven"> Gorgeous     </string>
+    <string name="text_twelve"> Distinguished    </string>
+    <string name="text_thirteen">   Magnificent    </string>
+    <string name="text_fourteen">   Blossom    </string>
+    <string name="text_fifteen">    Selected    </string>
+    <string name="text_sixteen">    Overwhelming    </string>
+    <string name="text_seventeen">  Heavenly  </string>
+    <string name="text_eighteen">   Immaculate     </string>
+    <string name="text_nineteen">   Unquestionable     </string>
+    <string name="text_twenty">     Blessed  </string>
+</resources>
